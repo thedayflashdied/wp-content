@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: About
+ * Template Name: Sidebar Right
  *
  * @package WordPress
  * @subpackage Twenty_Fifteen
@@ -12,7 +12,7 @@ get_header(); ?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
-			<h1>This is a custom About page template</h1>
+			<p>This is a custom page template which assigns the sidebar on the right.</p>
 
 			<?php
 			// Start the loop.
